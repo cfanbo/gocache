@@ -2,7 +2,7 @@
 
 [![Go](https://github.com/cfanbo/gocache/actions/workflows/build.yml/badge.svg)](https://github.com/cfanbo/gocache/actions/workflows/build.yml) [![Build Status](https://travis-ci.com/cfanbo/gocache.svg?branch=main)](https://travis-ci.com/cfanbo/gocache) [![Go Reference](https://pkg.go.dev/badge/github.com/cfanbo/gocache.svg)](https://pkg.go.dev/github.com/cfanbo/gocache)
 
-gocache 是一款可以高性能进程级缓存服务，在一定场景下可以用来代替redis，减少三方缓存依赖。
+gocache 是一款高性能进程级缓存服务，在一定场景下可以用来代替redis，减少三方缓存依赖。
 
 
 
